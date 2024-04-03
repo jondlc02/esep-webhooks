@@ -1,0 +1,7 @@
+C:\School_Work\EsepWebhookCS\src\EsepWebhookCS\bin\Release\net8.0\publish\EsepWebhookCS.deps.json
+C:\School_Work\EsepWebhookCS\src\EsepWebhookCS\bin\Release\net8.0\publish\EsepWebhookCS.runtimeconfig.json
+C:\School_Work\EsepWebhookCS\src\EsepWebhookCS\bin\Release\net8.0\publish\EsepWebhookCS.pdb
+C:\School_Work\EsepWebhookCS\src\EsepWebhookCS\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\School_Work\EsepWebhookCS\src\EsepWebhookCS\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\School_Work\EsepWebhookCS\src\EsepWebhookCS\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\School_Work\EsepWebhookCS\src\EsepWebhookCS\bin\Release\net8.0\publish\EsepWebhookCS.dll
